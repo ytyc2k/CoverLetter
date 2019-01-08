@@ -1,0 +1,34 @@
+Tong Yang
+Phone: 204-963-6778
+Email: ytyc2k@gmail.com
+
+
+Dear Hiring Manager,
+
+I am writing to express interest in the position of "#position" on "#website". I have included a copy of my resume for your review. You will find that my experience perfect matching this position.
+
+I have worked in 2 large-scale banks in China for more than 20 years, with extensive banking business knowledge and IT expertise, and a deep understanding of internal processes and security requirements.
+
+I am familiar with the tools that you require for the job:
+#inserttools
+
+I hope my resume helps you understand the application stack I have worked on and also helps you find a better fit for the position you have to offer at #company .
+
+Thank You.
+
+Requirements
+What can you bring to TD? Share your credentials, but your relevant experience and knowledge can be just as likely to get our attention. It helps if you have:
+
+University, College degree or equivalent experience with Network Tooling & scripting.
+Practical hands-on networking and systems administration experience, including experience configuring various Network Tools & Appliances.
+Experience working in Agile environment is definite plus.
+Highly proficient in Scripting languages (Python, Perl, JavaScript)
+Solid understanding of AWS and cloud solutions architecture.
+Documentation skill to maintain process & knowledge base documents and also to keep updated network diagrams, systems and configurations.
+Experience in working in SD WAN environment is highly desirable.
+Experience with assessing operational readiness requirements, HLD, LLD, failover design assessment in a similar role will be a definite plus.
+Strong problem solving, troubleshooting, and analytical skills
+Strong team player and results oriented individual with a high degree of self-motivation.
+
+Sincerely,
+Tong Yang
