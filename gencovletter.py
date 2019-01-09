@@ -26,7 +26,7 @@ def write_cover_letter(cover_letter, skills):
 
                     line = line.replace('#website', row[0])
                     line = line.replace('#inserttools', ','.join(row[1].split('#')))  # skills are seperated by '#' split and join them
-                    line = line.replace('#position', row[2])
+                    line = line.replace('#toolproficient', row[2])
                     line = line.replace('#toolyr', row[3])
                     line = line.replace('#company', row[4])
 

@@ -21,12 +21,31 @@ col_width = epw / 4
 # Since we do not need to draw lines anymore, there is no need to separate
 # headers from data matrix.
 
+SS="""Requirements
+What can you bring to TD? Share your credentials, but your relevant experience and knowledge can be just as likely to get our attention. It helps if you have:
+
+University, College degree or equivalent experience with Network Tooling & scripting.
+Practical hands-on networking and systems administration experience, including experience configuring various Network Tools & Appliances.
+Experience working in Agile environment is definite plus.
+Highly proficient in Scripting languages (Python, Perl, JavaScript)
+Solid understanding of AWS and cloud solutions architecture.
+Documentation skill to maintain process & knowledge base documents and also to keep updated network diagrams, systems and configurations.
+Experience in working in SD WAN environment is highly desirable.
+Experience with assessing operational readiness requirements, HLD, LLD, failover design assessment in a similar role will be a definite plus.
+Strong problem solving, troubleshooting, and analytical skills
+Strong team player and results oriented individual with a high degree of self-motivation."""
+
+RR=SS.split('\n')
+RR=[[i,'Yes'] for i in RR]
+print(RR)
+
+
 data = [['First name', 'Last name', 'Age', 'City'],
         ['Jules', 'Smith', 34, 'San Juan'],
         ['Mary', 'Ramos', 45, 'Orlando'], [
             'Carlson', 'Banks', 19, 'Los Angeles']
         ]
-
+data=RR
 # Document title centered, 'B'old, 14 pt
 pdf.set_font('Times', 'B', 14.0)
 pdf.cell(epw, 0.0, 'Demographic data', align='C')
