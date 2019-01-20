@@ -7,7 +7,8 @@ with open('skills.csv') as skills_csv:
         if rownum == 0:
             pass
         else:
-            RR = [i for i in ln[5].split('\n')]
+            RR = [i for i in ln[5].split('\n')if i !='']
+            print(RR)
             docname='CoverLetter-'+ln[4]+'-'+ln[2]+'.docx'
             if RR[0] == '':
                 break
